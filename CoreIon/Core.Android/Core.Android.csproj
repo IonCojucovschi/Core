@@ -54,6 +54,7 @@
     <Compile Include="Class1.cs" />
     <Compile Include="FIleUtility\FileSearchingFromDevice.cs" />
     <Compile Include="ImagesUtility\ImageHelper.cs" />
+    <Compile Include="ImagesUtility\SetImageFromGalery.cs" />
     <Compile Include="MicrosoftServices\MicrosoftModels\AnalisisVisionResultModel.cs" />
     <Compile Include="MicrosoftServices\MicrosoftVisualDescription.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />

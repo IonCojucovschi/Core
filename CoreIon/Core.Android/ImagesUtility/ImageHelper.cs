@@ -1,7 +1,7 @@
 ﻿using Android.Graphics;
 using System.Net;
 
-namespace Core.Android.MicrosoftServices.ImagesUtility
+namespace Core.Android.ImagesUtility
 {
     class ImageHelper///used for getting a image froma a path or put there
     {
