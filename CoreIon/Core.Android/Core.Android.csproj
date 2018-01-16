@@ -51,6 +51,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Animations\CirclesFadeInOutAnimation.cs" />
+    <Compile Include="Animations\FitToParentAnimation.cs" />
     <Compile Include="Class1.cs" />
     <Compile Include="FIleUtility\FileSearchingFromDevice.cs" />
     <Compile Include="ImagesUtility\ImageHelper.cs" />
